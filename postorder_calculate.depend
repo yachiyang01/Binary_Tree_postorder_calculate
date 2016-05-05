@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462442008 source:c:\users\yachi\documents\cplusdoc\postorder_calculate\btree.cpp
+	"Stack.cpp"
+
+1462440064 c:\users\yachi\documents\cplusdoc\postorder_calculate\stack.cpp
+	<iostream>
+
+1462440064 source:c:\users\yachi\documents\cplusdoc\postorder_calculate\stack.cpp
+	<iostream>
+
+1462441990 source:c:\users\yachi\documents\cplusdoc\postorder_calculate\main.cpp
+	<iostream>
+	"BTree.cpp"
+
+1462442008 c:\users\yachi\documents\cplusdoc\postorder_calculate\btree.cpp
+	"Stack.cpp"
+
